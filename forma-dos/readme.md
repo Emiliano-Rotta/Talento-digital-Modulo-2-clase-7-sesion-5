@@ -1,0 +1,1 @@
+Con el modo 2 quiero que hagan una aplicacion, que tenga por lo menos 3 elementos de boostrap
